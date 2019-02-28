@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Earthquake/static/js/runtime~main.9f34a0cd.js"
   },
   {
-    "revision": "68c58def3125ef21ab9a",
-    "url": "/Earthquake/static/js/main.68c58def.chunk.js"
+    "revision": "9b4fe9572c1dda4b2ae1",
+    "url": "/Earthquake/static/js/main.9b4fe957.chunk.js"
   },
   {
     "revision": "1003c8c29873809b8e0a",
     "url": "/Earthquake/static/js/2.1003c8c2.chunk.js"
   },
   {
-    "revision": "68c58def3125ef21ab9a",
+    "revision": "9b4fe9572c1dda4b2ae1",
     "url": "/Earthquake/static/css/main.f87be35d.chunk.css"
   },
   {
-    "revision": "46ef8c3b9147d6a6a2edc392fcff0fdc",
+    "revision": "6e18e23b3b3277f26163b5133c23b9fa",
     "url": "/Earthquake/index.html"
   }
 ];
