@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Earthquake/precache-manifest.e9b888f9aea69345f7107f2c25e02ade.js"
+  "/Earthquake/precache-manifest.078fbe2c6772dda6f96774c8dc3b9aa0.js"
 );
 
 workbox.clientsClaim();

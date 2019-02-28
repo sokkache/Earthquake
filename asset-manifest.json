@@ -1,14 +1,14 @@
 {
-  "main.css": "/Earthquake/static/css/main.f87be35d.chunk.css",
-  "main.js": "/Earthquake/static/js/main.9b4fe957.chunk.js",
-  "main.js.map": "/Earthquake/static/js/main.9b4fe957.chunk.js.map",
+  "main.css": "/Earthquake/static/css/main.47b2fd5b.chunk.css",
+  "main.js": "/Earthquake/static/js/main.0600f258.chunk.js",
+  "main.js.map": "/Earthquake/static/js/main.0600f258.chunk.js.map",
   "runtime~main.js": "/Earthquake/static/js/runtime~main.9f34a0cd.js",
   "runtime~main.js.map": "/Earthquake/static/js/runtime~main.9f34a0cd.js.map",
   "static/js/2.1003c8c2.chunk.js": "/Earthquake/static/js/2.1003c8c2.chunk.js",
   "static/js/2.1003c8c2.chunk.js.map": "/Earthquake/static/js/2.1003c8c2.chunk.js.map",
   "index.html": "/Earthquake/index.html",
-  "precache-manifest.e9b888f9aea69345f7107f2c25e02ade.js": "/Earthquake/precache-manifest.e9b888f9aea69345f7107f2c25e02ade.js",
+  "precache-manifest.078fbe2c6772dda6f96774c8dc3b9aa0.js": "/Earthquake/precache-manifest.078fbe2c6772dda6f96774c8dc3b9aa0.js",
   "service-worker.js": "/Earthquake/service-worker.js",
-  "static/css/main.f87be35d.chunk.css.map": "/Earthquake/static/css/main.f87be35d.chunk.css.map",
+  "static/css/main.47b2fd5b.chunk.css.map": "/Earthquake/static/css/main.47b2fd5b.chunk.css.map",
   "static/media/App.css": "/Earthquake/static/media/ground_crack.3aa880a2.svg"
 }
